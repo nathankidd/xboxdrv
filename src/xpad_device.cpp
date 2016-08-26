@@ -140,6 +140,7 @@ XPadDevice xpad_devices[] = {
   { GAMEPAD_SAITEK_P3600,     0x06a3, 0xf51a, "Saitek P3600 (Cyborg Rumble)" },
 
   { GAMEPAD_XBOXONE,          0x045e, 0x02d1, "XboxOne Controller (Wired)" },
+  { GAMEPAD_XBOXONE,          0x0e6f, 0x0246, "Rock Candy Wired Controller for Xbox One" },
 
   { GAMEPAD_PLAYSTATION3_USB, 0x054c, 0x0268, "PLAYSTATION(R)3 Controller" }
 };
