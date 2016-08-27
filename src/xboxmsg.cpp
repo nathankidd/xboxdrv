@@ -113,6 +113,9 @@ std::ostream& operator<<(std::ostream& out, const GamepadType& type)
     case GAMEPAD_XBOX360_WIRELESS:
       return out << "Xbox360 (wireless)";
 
+    case GAMEPAD_XBOXONE:
+      return out << "XboxOne";
+
     case GAMEPAD_XBOX360_PLAY_N_CHARGE:
       return out << "Xbox360 Play&Charge";
 
